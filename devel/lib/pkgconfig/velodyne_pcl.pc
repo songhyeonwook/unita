@@ -1,0 +1,8 @@
+prefix=/home/shw/Desktop/unita_erp_ws/devel
+
+Name: velodyne_pcl
+Description: Description of velodyne_pcl
+Version: 1.7.0
+Cflags: -I/home/shw/Desktop/unita_erp_ws/src/sensors/velodyne/velodyne_pcl/include
+Libs: -L${prefix}/lib 
+Requires: pcl_ros

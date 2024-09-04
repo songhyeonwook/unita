@@ -1,0 +1,8 @@
+prefix=/home/shw/Desktop/unita_erp_ws/devel
+
+Name: erp42_serial
+Description: Description of erp42_serial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp serial std_msgs erp42_msgs

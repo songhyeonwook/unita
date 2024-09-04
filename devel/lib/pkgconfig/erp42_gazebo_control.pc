@@ -1,0 +1,8 @@
+prefix=/home/shw/Desktop/unita_erp_ws/devel
+
+Name: erp42_gazebo_control
+Description: Description of erp42_gazebo_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
